@@ -1,3 +1,8 @@
+/*
+Name: Joseph Chege
+Reg No: CT101/G/18878/23
+ */
+
 // main class
 class Main{
     public static void main(String[] args){
